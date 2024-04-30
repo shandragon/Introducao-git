@@ -7,5 +7,6 @@ public class Principal {
         System.out.println("CALCULADORA");
         System.out.println("Somando: " + calculadora.somar(1d, 2d));
         System.out.println("Subtraindo: " + calculadora.subtrair(1d, 2d));
+        System.out.println("Multiplicação: " + calculadora.multiplicar(1d, 2d));
     }
 }
