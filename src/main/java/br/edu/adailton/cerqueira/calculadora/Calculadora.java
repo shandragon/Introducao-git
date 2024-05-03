@@ -17,4 +17,8 @@ public class Calculadora {
 	public double dividir(double valor1, double valor2) {
 		return valor1 / valor2;
 	}
+        
+        public double potencia(double valor) {
+            return valor*valor;
+        }
 }
